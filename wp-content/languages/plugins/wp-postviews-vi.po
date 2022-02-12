@@ -1,0 +1,269 @@
+# Translation of Plugins - WP-PostViews - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - WP-PostViews - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-17 01:40:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - WP-PostViews - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://lesterchan.net"
+msgstr "https://lesterchan.net"
+
+#. Author of the plugin
+msgid "Lester 'GaMerZ' Chan"
+msgstr "Lester 'GaMerZ' Chan"
+
+#. Description of the plugin
+msgid "Enables you to display how many times a post/page had been viewed."
+msgstr "Cho phép hiển thị số lượt xem cho bài viết/trang."
+
+#. Plugin URI of the plugin
+msgid "https://lesterchan.net/portfolio/programming/php/"
+msgstr "https://lesterchan.net/portfolio/programming/php/"
+
+#: wp-postviews.php:962
+msgid "* If you are not using any category statistics, you can ignore it."
+msgstr "* Nếu bạn không sử dụng bất kỳ chuyên mục nào, bạn có thể bỏ qua."
+
+#: wp-postviews.php:959
+msgid "Separate mutiple categories with commas."
+msgstr "Ngăn cách các chuyên mục bằng dấu ,"
+
+#: wp-postviews.php:958
+msgid "Category IDs:"
+msgstr "IDs chuyên mục"
+
+#: wp-postviews.php:955
+msgid "<strong>0</strong> to disable."
+msgstr "<strong>0</strong> để vô hiệu hóa."
+
+#: wp-postviews.php:954
+msgid "Maximum Post Title Length (Characters):"
+msgstr "Độ dài tối đa của Tiêu Đề"
+
+#: wp-postviews.php:951
+msgid "No. Of Records To Show:"
+msgstr "Số bản ghi hiển thị"
+
+#: wp-postviews.php:944
+msgid "%s Only"
+msgstr "%s Chỉ"
+
+#: wp-postviews.php:941
+msgid "All"
+msgstr "Tất cả"
+
+#: wp-postviews.php:939
+msgid "Include Views From:"
+msgstr "Bao gồm lượt xem từ:"
+
+#: wp-postviews.php:934
+msgid "Most Viewed By Category"
+msgstr "Xem nhiều nhất theo Chuyên Mục"
+
+#: wp-postviews.php:933
+msgid "Most Viewed"
+msgstr "Xem nhiều"
+
+#: wp-postviews.php:931
+msgid "Least Viewed By Category"
+msgstr "Xem ít nhất theo Chuyên Mục"
+
+#: wp-postviews.php:930
+msgid "Least Viewed"
+msgstr "Xem ít nhất"
+
+#: wp-postviews.php:928
+msgid "Statistics Type:"
+msgstr "Loại thống kê:"
+
+#: wp-postviews.php:925
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: wp-postviews.php:864
+msgid "WP-PostViews views statistics"
+msgstr "Thống kê lượt xem"
+
+#: wp-postviews.php:813 wp-postviews.php:865 wp-postviews.php:913
+msgid "Views"
+msgstr "lượt xem"
+
+#: wp-postviews.php:751
+msgid "<strong>%s</strong> view was generated."
+msgid_plural "<strong>%s</strong> views were generated."
+msgstr[0] "<strong>%s</strong> lượt xem được tạo."
+
+#: wp-postviews.php:737 wp-postviews.php:739 wp-postviews.php:769
+msgid "%s Most Viewed Page"
+msgid_plural "%s Most Viewed Pages"
+msgstr[0] "%s Trang xem nhiều"
+
+#: wp-postviews.php:732 wp-postviews.php:734 wp-postviews.php:763
+msgid "%s Most Viewed Post"
+msgid_plural "%s Most Viewed Posts"
+msgstr[0] "%s Bài viết xem nhiều"
+
+#. Plugin Name of the plugin
+#: wp-postviews.php:719 wp-postviews.php:721 wp-postviews.php:749
+msgid "WP-PostViews"
+msgstr "WP-PostViews"
+
+#: wp-postviews.php:286 wp-postviews.php:347 wp-postviews.php:409
+#: wp-postviews.php:471 wp-postviews.php:532 wp-postviews.php:594
+msgid "N/A"
+msgstr "N/A"
+
+#: wp-postviews.php:43
+msgid "PostViews"
+msgstr "PostViews"
+
+#: postviews-options.php:204
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: postviews-options.php:198
+msgid "Don't display on other pages"
+msgstr "Không hiển thị trên trang khác"
+
+#: postviews-options.php:193
+msgid "Other Pages:"
+msgstr "Trang khác"
+
+#: postviews-options.php:188
+msgid "Don't display on search pages"
+msgstr "Không hiển thị trên trang tìm kiếm"
+
+#: postviews-options.php:183
+msgid "Search Pages:"
+msgstr "Tìm kiếm trang"
+
+#: postviews-options.php:178
+msgid "Don't display on archive pages"
+msgstr "Trang lưu trữ"
+
+#: postviews-options.php:173
+msgid "Archive Pages:"
+msgstr "Trang lưu trữ:"
+
+#: postviews-options.php:168
+msgid "Don't display on pages"
+msgstr "Không hiển thị trên trang"
+
+#: postviews-options.php:163
+msgid "Pages:"
+msgstr "Trang:"
+
+#: postviews-options.php:158
+msgid "Don't display on single posts"
+msgstr "Không hiển thị trên bài viết đơn"
+
+#: postviews-options.php:153
+msgid "Single Posts:"
+msgstr "Bài viết:"
+
+#: postviews-options.php:148
+msgid "Don't display on home page"
+msgstr "Không hiển thị trên trang chủ"
+
+#: postviews-options.php:147 postviews-options.php:157
+#: postviews-options.php:167 postviews-options.php:177
+#: postviews-options.php:187 postviews-options.php:197
+msgid "Display to registered users only"
+msgstr "Chỉ hiển thị thành viên đăng ký"
+
+#: postviews-options.php:146 postviews-options.php:156
+#: postviews-options.php:166 postviews-options.php:176
+#: postviews-options.php:186 postviews-options.php:196
+msgid "Display to everyone"
+msgstr "Hiển thị mọi người"
+
+#: postviews-options.php:143
+msgid "Home Page:"
+msgstr "Trang Chủ:"
+
+#: postviews-options.php:140
+msgid "These options specify where the view counts should be displayed and to whom. \tBy default view counts will be displayed to all visitors. Note that the theme files must contain a call to <code>the_views()</code> in order for any view count to be displayed."
+msgstr "Tùy chọn này chỉ định bạn muốn hiển thị lượt xem tới những ai. \t mặc định thì sẻ được hiện thị cho mọi người. Lưu ý rằng file trong giao diện của bạn phải được thực thi lệnh <code>the_views()</code> để có thể cập nhật lượt xem."
+
+#: postviews-options.php:139
+msgid "Display Options"
+msgstr "Tùy chọn hiển thị"
+
+#: postviews-options.php:120
+msgid "Most Viewed Template:"
+msgstr "Mẫu xem nhiều"
+
+#: postviews-options.php:112 postviews-options.php:132
+msgid "Restore Default Template"
+msgstr "Khôi phục mẫu mặc định"
+
+#: postviews-options.php:109 postviews-options.php:121
+msgid "Allowed Variables:"
+msgstr "Các biến cho phép"
+
+#: postviews-options.php:108
+msgid "Views Template:"
+msgstr "Mẫu hiển thị"
+
+#: postviews-options.php:99
+msgid "You have caching enabled for your WordPress installation, by default WP-PostViews will use AJAX to update the view count. However in some cases, you might not want it."
+msgstr "Bạn cần bật Bộ nhớ đệm khi cài đặt, mặc định WP-Postview sẻ sử dụng AJAX để cập nhật lượt xem. Tuy nhiên trong một số trường hợp, bạn có thể không muốn sử dụng."
+
+#: postviews-options.php:92
+msgid "Use AJAX To Update Views:"
+msgstr "Sử dụng AJAX để cập nhật lượt xem:"
+
+#: postviews-options.php:86 postviews-options.php:96
+msgid "Yes"
+msgstr "Có"
+
+#: postviews-options.php:85 postviews-options.php:95
+msgid "No"
+msgstr "Không"
+
+#: postviews-options.php:82
+msgid "Exclude Bot Views:"
+msgstr "Loại trừ Box:"
+
+#: postviews-options.php:77
+msgid "Registered Users Only"
+msgstr "Chỉ thành viên đăng ký"
+
+#: postviews-options.php:76
+msgid "Guests Only"
+msgstr "Chỉ khách"
+
+#: postviews-options.php:75
+msgid "Everyone"
+msgstr "Mọi người"
+
+#: postviews-options.php:72
+msgid "Count Views From:"
+msgstr "Đếm lượt xem từ:"
+
+#: postviews-options.php:58 wp-postviews.php:993
+msgid "views"
+msgstr "lượt xem"
+
+#: postviews-options.php:55 wp-postviews.php:992
+msgid "%VIEW_COUNT% views"
+msgstr "%VIEW_COUNT% lượt xem"
+
+#: postviews-options.php:38
+msgid "No Post Views Option Updated"
+msgstr "Không có lượt xem nào cập nhật"
+
+#: postviews-options.php:33
+msgid "Updated"
+msgstr "Đã cập nhật"
+
+#: postviews-options.php:28 postviews-options.php:69
+msgid "Post Views Options"
+msgstr "Tùy chọn Post Views"

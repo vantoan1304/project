@@ -1,0 +1,6 @@
+2020-03-30T01:02:45+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\tranhtuong/wp-content/themes/betheme/functions/theme-woocommerce.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\tranhtuong\wp-content\themes\betheme\functions.php on line 125
+
+2020-03-30T01:04:06+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\tranhtuong/wp-content/themes/betheme/functions/theme-woocommerce.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\tranhtuong\wp-content\themes\betheme\functions.php on line 125
+
+2020-03-30T04:33:19+00:00 CRITICAL Call to undefined function the_fields() in C:\xampp\htdocs\tranhtuong\wp-content\themes\betheme\woocommerce\content-single-product.php on line 139
+
